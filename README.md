@@ -21,7 +21,7 @@ winget install --id JFrog.Conan
 ```
 Then:
 ```
-git clone https://https://github.com/CODESOLE/wolox.git
+git clone https://https://github.com/CODESOLE/c-game-experiment.git
 ```
 
 # BUILD
