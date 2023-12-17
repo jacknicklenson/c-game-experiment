@@ -1,4 +1,4 @@
-# wolox
+# c-game-experiment
 Simple C game.
 
 # Dependencies
